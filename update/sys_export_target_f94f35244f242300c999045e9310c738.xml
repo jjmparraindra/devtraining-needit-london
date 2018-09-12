@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_export_target">
+    <sys_export_target action="INSERT_OR_UPDATE">
+        <description/>
+        <file_path>\export</file_path>
+        <method>File on MID Server</method>
+        <mid_server display_value="midjjlocal">1a6707b64f102300c999045e9310c7dc</mid_server>
+        <name>NeedIt Export_midjjlocal</name>
+        <sys_class_name>sys_export_target</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-11 13:40:35</sys_created_on>
+        <sys_id>f94f35244f242300c999045e9310c738</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Export_midjjlocal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_export_target_f94f35244f242300c999045e9310c738</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-11 13:40:35</sys_updated_on>
+    </sys_export_target>
+</record_update>
